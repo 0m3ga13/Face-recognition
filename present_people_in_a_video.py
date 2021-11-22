@@ -40,7 +40,7 @@ i = 1
 
 for file in os.listdir(folder):
     filename = os.fsdecode(file)
-    if filename.endswith( ('.jpeg', '.png', '.gif', 'png') ):
+    if filename.endswith( ('.jpeg', '.png', '.gif', 'jpg') ):
       globals()["person_image" + str(i)] = face_recognition.load_image_file(filename)
       globals()["person_face_encoding" + str(i)] = face_recognition.face_encodings(globals()["person_image" + str(i)])[0]
       i += 1
