@@ -4,28 +4,25 @@
 <p align="center">
 
 <div align="center">
-        project_description
-<br />
-  <a href="https://github.com/0m3ga13/PRESENT_OR_NOT">
+  <a href="https://github.com/github_username/repo_name">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">PRESENT STUDENTS LIST</h3>
+<h3 align="center">Present Students Names</h3>
 
   <p align="center">
-    
+    Using OpenCV and face recognition to store the present people names in a python list.
     <br />
-    <a href="https://github.com/0m3ga13/PRESENT_OR_NOT"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/0m3ga13/PRESENT_OR_NOT">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/0m3ga13/PRESENT_OR_NOT/issues">Report Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/0m3ga13/PRESENT_OR_NOT/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
-
 
 
 
