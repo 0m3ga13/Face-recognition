@@ -11,7 +11,7 @@
 <h3 align="center">PRESENT STUDENTS LIST</h3>
 
   <p align="center">
-    Description
+    
     <br />
     <a href="https://github.com/0m3ga13/PRESENT_OR_NOT"><strong>Explore the docs »</strong></a>
     <br />
@@ -44,9 +44,9 @@ This Project, use simple methods to detect people in a video and store their nam
 
 ### Prerequisites
 
-You need OpenCV and face_recognition installed to run this example. To install it, run 
+You need OpenCV and face_recognition installed to run this example. To install them , run 
 
-* npm
+*pip
   ```sh
   pip install opencv-python
   pip install face_recognition
