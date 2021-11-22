@@ -1,7 +1,5 @@
 
-[![Contributors][contributors-shield]][https://github.com/0m3ga13]
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/oussama13/]
 
 
 <br />
@@ -10,10 +8,10 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">PRESENT STUDENTS LIST</h3>
 
   <p align="center">
-    project_description
+    Description
     <br />
     <a href="https://github.com/0m3ga13/PRESENT_OR_NOT"><strong>Explore the docs »</strong></a>
     <br />
