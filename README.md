@@ -12,13 +12,7 @@
 
   <p align="center">
     Using OpenCV and face recognition to store the present people names in a python list.
-  
- 
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
+  </p>  
 </div>
 
 
